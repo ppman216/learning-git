@@ -1,0 +1,2 @@
+hello! how are you doing
+making a git file and a repository
